@@ -1,7 +1,7 @@
-![banner](https://github.com/elifKALENDER/Linked_Website_TextEditor/blob/main/asserts/mvn.svg)
-![banner](https://github.com/elifKALENDER/Linked_Website_TextEditor/blob/main/asserts/eclipse.svg)
-![banner](https://github.com/elifKALENDER/Linked_Website_TextEditor/blob/main/asserts/java.svg)
-![banner](https://github.com/elifKALENDER/Linked_Website_TextEditor/blob/main/asserts/blogger.svg)
+![banner](https://github.com/elifKALENDER/Linked_Website_TextEditor/blob/main/assets/mvn.svg)
+![banner](https://github.com/elifKALENDER/Linked_Website_TextEditor/blob/main/assets/eclipse.svg)
+![banner](https://github.com/elifKALENDER/Linked_Website_TextEditor/blob/main/assets/java.svg)
+![banner](https://github.com/elifKALENDER/Linked_Website_TextEditor/blob/main/assets/blogger.svg)
 
 # Linked_Website_TextEditor
 
